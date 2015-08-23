@@ -2,4 +2,4 @@
 ###Filter content by category
 
 
-[See Demo](http://devscorner.com/category-filter/)
+Its a simple category filter which able to filter content by category.
